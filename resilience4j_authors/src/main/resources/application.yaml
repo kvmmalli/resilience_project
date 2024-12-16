@@ -1,0 +1,5 @@
+spring:
+  application:
+    name=resilience4j_authors
+server:
+  port: 9092
